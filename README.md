@@ -1,5 +1,6 @@
 #ISIS1225 - Estructura de un proyecto
 
+Integrantes:
 Juan Camilo Bonet 202022466 j.bonet@uniandes.edu.co
 Jesús Jiménez 202020431 j.jimenez21@uniandes.edu.co
 
